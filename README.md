@@ -42,6 +42,11 @@ pip3 install install webdriver-manager
 Para automatizar la instalación, ejecuta el script `setup.sh`. Este script instalará todas las dependencias necesarias y configurará el entorno automáticamente:
 
 ```bash
+chmod +x setup.sh
+./setup.sh
+```
+
+```bash
 ./setup.sh
 ```
 

@@ -51,6 +51,10 @@ chmod +x setup.sh
 Antes de ejecutar las pruebas, asegúrate de que la aplicación React esté en ejecución en la instancia EC2. Puedes iniciar el servidor de desarrollo de React utilizando el siguiente comando:
 
 ```bash
+npm install
+```
+
+```bash
 npm start
 ```
 

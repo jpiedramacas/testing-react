@@ -58,6 +58,10 @@ npm install
 npm start
 ```
 
+Y en caso de fallar al arrancar la apliacion:
+```bash
+npm install react-scripts --save
+```
 Una vez iniciado el servidor de desarrollo, puedes ejecutar las pruebas utilizando el siguiente comando en el entorno Cloud9:
 
 ```bash
